@@ -41,5 +41,5 @@ O menu exibirá as opções para executar cada funcionalidade.
 ## Notas de uso
 
 - Entrada numérica aceita `.` ou `,` como separador decimal no cálculo de juros.
-- Ao registrar movimentações, o arquivo `data/movimentacoes.json` recebe um objeto com: `id`, `codigoProduto`, `tipo` (Entrada/Saida), `quantidadeAlterada`, `timestamp` (UTC) e `estoqueFinal`.
+- Ao registrar movimentações, o arquivo `data/movimentacoes.json` recebe um objeto com: `id`, `codigoProduto`, `tipo` (Entrada/Saida), `quantidadeAlterada`, `timestamp` e `estoqueFinal`.
 - A propriedade `Movimentacao.tipo` utiliza o enum `MovimentacaoTipo` e é serializada como string (`Entrada`/`Saida`).
