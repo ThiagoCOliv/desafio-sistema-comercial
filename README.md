@@ -1,0 +1,2 @@
+# desafio-sistema-comercial
+Implementação de três módulos independentes: cálculo de comissão sobre vendas, controle de movimentações de estoque e cálculo de juros sobre valores vencidos. O projeto processa dados em JSON, registra entradas e saídas de produtos com identificação única e calcula penalidades financeiras com base na data de vencimento. Tudo organizado para fins de estudo e demonstração de lógica aplicada.
