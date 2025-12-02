@@ -1,0 +1,39 @@
+# Ignore build outputs
+**/bin/
+**/obj/
+
+# Visual Studio (including VS Code workspace)
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+.packages/
+project.lock.json
+
+# Dotnet publish output
+publish/
+artifacts/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+
+# Resharper
+_ReSharper*/
+
+# Ignore Rider caches
+.idea/
