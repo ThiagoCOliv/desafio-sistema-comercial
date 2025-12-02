@@ -1,0 +1,28 @@
+{
+  "movimentacoes": [
+    {
+      "id": "81848cbc-5228-407a-b232-3cd0f6f55bf3",
+      "codigoProduto": 104,
+      "tipo": "Saida",
+      "quantidadeAlterada": 4,
+      "timestamp": "2025-12-02T13:30:46.2785621Z",
+      "estoqueFinal": 316
+    },
+    {
+      "id": "2074663f-093c-4636-8f5e-d29b39007a81",
+      "codigoProduto": 102,
+      "tipo": "Saida",
+      "quantidadeAlterada": 5,
+      "timestamp": "2025-12-02T13:34:08.9890600Z",
+      "estoqueFinal": 70
+    },
+    {
+      "id": "d8f342b5-d163-4fa7-98a7-110670a6bb5f",
+      "codigoProduto": 105,
+      "tipo": "Entrada",
+      "quantidadeAlterada": 10,
+      "timestamp": "2025-12-02T13:38:29.5129875Z",
+      "estoqueFinal": 100
+    }
+  ]
+}
